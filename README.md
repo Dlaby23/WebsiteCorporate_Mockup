@@ -65,7 +65,7 @@ The website is compatible with all modern browsers including:
 ## Contact
 
 For business inquiries:
-- Website: [Tvorimeprotebe.cz](https://Tvorimeprotebe.cz)
+- Website: [https://www.tvorimeprotebe.cz](https://www.tvorimeprotebe.cz)
 
 ---
 
