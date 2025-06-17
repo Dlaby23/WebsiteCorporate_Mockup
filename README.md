@@ -65,9 +65,7 @@ The website is compatible with all modern browsers including:
 ## Contact
 
 For business inquiries:
-- Phone: 123-456-7890
-- Email: contact@info.com
-- Address: 123 Fifth Avenue, New York, NY 10160
+- Website: [Tvorimeprotebe.cz](https://Tvorimeprotebe.cz)
 
 ---
 
